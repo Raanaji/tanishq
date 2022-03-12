@@ -1,2 +1,3 @@
-# tanishq
-This is my resume
+# raanaji.github.io  
+
+## Personal website inspired from google.com
